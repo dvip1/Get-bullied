@@ -12,21 +12,4 @@
         audio.play();
     },800*(i+1))
  } 
- let a=document.lastModified;
- document.write(a);
-
- //objects practice
-/*
-  const hotel= {
-    name:'Oscorp Hotels',
-    rooms: 200,
-    floors:40,
-    price:'400$ per night',
-    packages:['Delux','Premium','First Class']
-}
-
-document.write(hotel.name+" ");
-document.write(hotel.rooms+" ");
-document.write(hotel.floors+" ");
-document.write(hotel.price+" ");
-document.write(hotel.packages);*/
+ 
