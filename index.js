@@ -8,7 +8,7 @@
         imgage.className='gonnacry';
         document.getElementById('parent1').appendChild(imgage);
 
-        var audio=new Audio('/material/gonnacry.mp3');
+        var audio=new Audio('material/gonnacry.mp3');
         audio.play();
     },800*(i+1))
  } 
